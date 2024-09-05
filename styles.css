@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+.imperio{
+    background-color: red;
+    padding: 1rem;
+}
+
+#vader{
+    font-size: 23px;
+}
+
+.rebeldes{
+    background-color: lightblue;
+    padding: 1rem;
+}
+
+#luke{
+    font-style: italic;
+}
+
+.soldado{
+    border: 10px;
+    border-style: dashed;
+    border-radius: 16px;
+    padding: 3rem;
+}
+
+#soldadoName{
+    letter-spacing: 5px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
